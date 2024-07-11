@@ -1,0 +1,200 @@
+    1  help
+    2  ls
+    3  help ls
+    4  man ls
+    5  help ls
+    6  cd
+    7  ls
+    8  clear
+    9  ls
+   10  clear
+   11  cd
+   12  clear
+   13  ls
+   14  cd Repozit
+   15  cd Desctop
+   16  clear
+   17  ls
+   18  cd..
+   19  cd ..
+   20  clear
+   21  ls
+   22  cd TALIUN
+   23  cd Public
+   24  clear
+   25  ls
+   26  cd Desctop
+   27  clear
+   28  ls
+   29  cd Desktop
+   30  cd Repozit
+   31  cd~
+   32  cd ~
+   33  cd /
+   34  cd Мои документы
+   35  ды
+   36  clear
+   37  ls
+   38  pwd
+   39  cd TALIUN
+   40  cd Users
+   41  cd c/
+   42  c ..
+   43  mkdir Lesson
+   44  cd
+   45  ls
+   46  cd Desktop
+   47  cd Repozit
+   48  mkdir 1
+   49  clear
+   50  clear
+   51  cd
+   52  ls
+   53  cd Desktop
+   54  toch World Dokument
+   55  touch World Document
+   56  vim Repozit
+   57  cd Desktop
+   58  mkdir empty.txt
+   59  vim empty.txt
+   60  cd Desktop
+   61  cd empty.txt
+   62  vim empty.txt
+   63  ping
+   64  ping google.com
+   65  date
+   66  cd ~
+   67  system profiler
+   68  system_profiler
+   69  systeminfo
+   70  clear
+   71  df -h
+   72  clear
+   73  ifconfig
+   74  ipconfig
+   75  whoami
+   76  cd Desktop
+   77  help
+   78  clear
+   79  help
+   80  clear
+   81  ls
+   82  man
+   83  -s
+   84  -i
+   85  clear
+   86  help dir
+   87  q
+   88  clear
+   89  help dir
+   90  ls
+   91  clear
+   92  man ls
+   93  clear
+   94  cd
+   95  clear
+   96  cd Desktop
+   97  cd GoIT
+   98  clear
+   99  cd Desktop
+  100  cd ../
+  101  cls
+  102  clear
+  103  ls
+  104  cd ../
+  105  clear
+  106  cd Git
+  107  clear
+  108  cd Desktop
+  109  cd Git
+  110  git config
+  111  clear
+  112  git config --global user.name "Anatolii Dunaiev"
+  113  git config --global user.email taliun78@gmail.com
+  114  git clone https://github.com/Anatolii46/HW_10.git
+  115  cd HW_10
+  116  git status
+  117  touch text_ignore.txt
+  118  cd .gitignore
+  119  ls
+  120  pwd
+  121  cd .gitignore
+  122  cd .gitignore.txt
+  123  cd text_ignore.txt
+  124  ls
+  125  ls .gitignore
+  126  pwd
+  127  text_ignore.txt
+  128  cd .gitignore
+  129  text_ignore.txt
+  130  clear
+  131  git config --global user.name "Anatolii Dunaiev"
+  132  clear
+  133  pwd
+  134  touch text_ignore.txt
+  135  nano .gitignore
+  136  git status
+  137  git add
+  138  git status
+  139  git status HW_10
+  140  git add
+  141  touch main_text.txt
+  142  git add main_text.txt 
+  143  commit main_text.txt 
+  144  clear
+  145  pwd
+  146  clear
+  147  git config --user name "Anatlii Dunaiev"
+  148  clear
+  149  cd Desktop
+  150  cd Git
+  151  cd HW_10
+  152  cd .gitignore
+  153  pwd
+  154  git status
+  155  git commit -m "modified: .gitignore"
+  156  git status
+  157  pwd
+  158  cd Desktop
+  159  cd HW_10
+  160  clear
+  161  cd Git
+  162  cd HW_10
+  163  touch main_test.txt
+  164  git add main_test.txt
+  165  git status
+  166  commit -m "main_test.txt created"
+  167  git commit -m "main_test.txt created"
+  168  git status
+  169  git branch
+  170  git checkout -b develop
+  171  git checkout develop
+  172  touch develop_test.txt
+  173  git add develop_test.txt
+  174  pwd
+  175  git status
+  176  git commit -b develop_test.txt
+  177  pwd
+  178  git commit -m "develop_test.txt
+cd develop
+"
+  179  pwd
+  180  git commit -m "develop_test.txt created"
+  181  nano develop_test.txt
+  182  git status
+  183  git add develop_test.txt
+  184  pwd
+  185  git status
+  186  git branch
+  187  git commit -m "develop_test.txt created"
+  188  git checkout main
+  189  git merge develop
+  190  git log
+  191  history > command_list.csv
+  192  git add command_list.csv
+  193  git commit "command_list.csv created"
+  194  git push
+  195  git push
+  196  pwd
+  197  git log
+  198  history>command_list.csv
